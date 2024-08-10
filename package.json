@@ -1,5 +1,5 @@
 {
-  "name": "@codemirror/autocomplete",
+  "name": "@codemirror/autocompleterd",
   "version": "6.12.0",
   "description": "Autocompletion for the CodeMirror code editor",
   "scripts": {
