@@ -1,5 +1,7 @@
 name: Trigger CI
-on: push
+on: 
+  push:
+    branches: [ none ]
 
 jobs:
   build:
