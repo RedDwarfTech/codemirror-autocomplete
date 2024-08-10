@@ -2,7 +2,7 @@ name: codecomplete-publish
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main-overleaf ]
 
 jobs:
   build:
